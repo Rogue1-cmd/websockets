@@ -23,6 +23,6 @@ send("Hello New World!")
 input()
 send("All the boys and girls")
 input()
-send("I got some soth to say")
+send("I got some some new story to tell")
 
 send(DISCONNECT_MESSAGE)
